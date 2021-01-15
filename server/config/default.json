@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/party",
+  "port": "5000"
+}
